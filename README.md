@@ -1,5 +1,5 @@
 # masterclass-typescript
-:seat: A simple fullstack application developed with typescript
+:seat: A simple application developed with typescript
 
 ### Prerequisites
 
