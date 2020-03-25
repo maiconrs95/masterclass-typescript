@@ -3,6 +3,8 @@ import EmailService from '../services/Email';
 
 const users = [
     { id: 1, name: 'Maicon Silva', email: 'maiconrs95@gmail.com' },
+    { id: 2, name: 'jac Silva', email: 'jacsilva@gmail.com' },
+    { id: 3, name: 'Soraia Silva', email: 'soraia@gmail.com' },
 ];
 
 export default {
